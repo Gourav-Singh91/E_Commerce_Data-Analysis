@@ -20,7 +20,7 @@ Brazilian E-Commerce Data: https://www.kaggle.com/olistbr/brazilian-ecommerce
 * Which payment modes do people usually prefer for purchasing goods.
 * Using this various offers can be given to customers on their prefered payment mode.
 
-![3]
+![3](https://github.com/Gourav-Singh91/E_Commerce_Data-Analysis/blob/b0ffe9a48f1a62d578455d88c799bdf0e0bab74e/des_3.png)
 
 * State-wise visualized on the count of payment modes.
 
