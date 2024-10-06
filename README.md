@@ -15,7 +15,7 @@ Brazilian E-Commerce Data: https://www.kaggle.com/olistbr/brazilian-ecommerce
 * Determining in which part of the year the sales are more or less.
 * At what period of time do customers like to buy more.
 
-![2]
+![2](https://github.com/Gourav-Singh91/E_Commerce_Data-Analysis/blob/29af57e55d3fcb5ef3e7fa95b0b09e6d1f2f1af3/des_2.png)
 
 * Which payment modes do people usually prefer for purchasing goods.
 * Using this various offers can be given to customers on their prefered payment mode.
