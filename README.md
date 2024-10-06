@@ -10,7 +10,7 @@ Brazilian E-Commerce Data: https://www.kaggle.com/olistbr/brazilian-ecommerce
 * States which are having the higest number of orders or sales.
 * Focusing more on those states like promoting and advertizing will have a higher impact on the Sales Revenue.
 
-![1](../https://github.com/Gourav-Singh91/E_Commerce_Data-Analysis/blob/a2c5f3473629e36da51968b3277bd79377f7865f/des_1.png)
+![1](../https://github.com/Gourav-Singh91/E_Commerce_Data-Analysis/blob/a2c5f3473629e36da51968b3277bd79377f7865f/des_1.png).
 
 * Determining in which part of the year the sales are more or less.
 * At what period of time do customers like to buy more.
