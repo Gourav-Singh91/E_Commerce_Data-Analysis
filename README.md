@@ -24,7 +24,7 @@ Brazilian E-Commerce Data: https://www.kaggle.com/olistbr/brazilian-ecommerce
 
 * State-wise visualized on the count of payment modes.
 
-![4])
+![4])(https://github.com/Gourav-Singh91/E_Commerce_Data-Analysis/blob/d444070d604e81e35288463d58254d960eb597d2/des_4.png)
 
 * Popularity of various products into different states.
 
