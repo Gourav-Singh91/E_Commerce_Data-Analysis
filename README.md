@@ -28,7 +28,7 @@ Brazilian E-Commerce Data: https://www.kaggle.com/olistbr/brazilian-ecommerce
 
 * Popularity of various products into different states.
 
-![5]
+![5](https://github.com/Gourav-Singh91/E_Commerce_Data-Analysis/blob/6bc3e25b67763d70294c59c680bd62cd4a36f42f/des_5.png)
 
 ## What I had tried to achieve
 * Which areas are the huge market for our products to better target the customers.
